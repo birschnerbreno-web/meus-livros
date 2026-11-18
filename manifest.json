@@ -1,0 +1,35 @@
+{
+    "name": "Meus Livros",
+    "short_name": "Meus Livros",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0B0A09",
+    "theme_color": "#0B0A09",
+    "description": "Leitor de livros em PDF organizado pela IA, com resumo, perguntas e anotações.",
+    "orientation": "any",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
